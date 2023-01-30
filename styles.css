@@ -1,0 +1,43 @@
+*{
+    margin:0;
+}
+div.navbar {
+    height: 120px;
+    width:100%;
+    display:inline-flex;
+    background-color: bisque;
+    
+}
+ul.navbar{
+    
+    margin:0 auto;
+    padding:0px 30px;
+    display: inline-flex;
+    position: absolute;
+    right:10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li.navbar {
+    margin:0 0 0 auto;
+    display: inline-block;
+    list-style: none;
+    padding: 40px 30px;
+    font-family: "Ms madi",serif,sans-serif;
+    font-size:35px;
+    
+
+    
+}
+p#signature{
+    font-family: "Ms madi";
+    position:relative;
+    position:left;
+    font-weight: bold;
+    font-size: 100px;
+    margin-left: 40px;
+    padding:0 30px;
+    
+}
